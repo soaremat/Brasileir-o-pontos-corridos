@@ -10,6 +10,10 @@ Projeto de análise do Campeonato Brasileiro Série A.
 ## 📁 Arquivo
 [Brasileirão](https://github.com/soaremat/Brasileir-o-pontos-corridos/blob/main/Brasileiro2026.pbix)
 
+## Base de dados usada:
+[Historico](https://lnkd.in/djkr554b)
+[Tabela](https://lnkd.in/dGhGnzKM)
+
 ## 📸 Preview
 <img width="1371" height="773" alt="image" src="https://github.com/user-attachments/assets/98eb2693-4b1c-4228-8928-82a057fbacaf" />
 
